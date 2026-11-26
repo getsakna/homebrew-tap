@@ -7,7 +7,7 @@ cask "sakna-agents" do
   desc "Lists every Claude Code session and tells you when one asks you something"
   homepage "https://sakna.dev/"
 
-  depends_on macos: ">= :tahoe"
+  depends_on macos: :tahoe
 
   app "Sakna Agents.app"
 
