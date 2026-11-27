@@ -1,6 +1,6 @@
 cask "sakna-agents" do
-  version "0.1.3"
-  sha256 "26c691febb541e46b7281d6347126bc5d2b05d515d13cff5b2169da37254494c"
+  version "0.1.4"
+  sha256 "6c1cc98728b9052532c2f11ecfc10ac30d91ad7318ec584268508266829cf441"
 
   url "https://sakna.dev/download/SaknaAgents-#{version}.dmg"
   name "Sakna Agents"
